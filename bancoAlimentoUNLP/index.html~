@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<header></heaader>
+<head>
+<style>
+body{
+  background-color:rgba(0,0,125,0.2);
+}
+
+#banner{
+   background-color:green;
+   padding:20px;
+   margin-top:30px;
+   width:100%;
+}
+
+#button{
+  
+ 
+  margin-left:800px;
+  padding:0;
+  
+ 
+
+}
+
+#button li{
+   
+   padding:0;
+   float:left;
+   list-style:none;
+
+}
+
+#button li a{
+   
+  text-decoration:none;
+  width:100px;
+  text-align:right;
+  font-size:15px;
+  display:block;
+  color:black;
+  background-color:rgba(0,0,115,0.2);
+  border-radius:5px;
+}
+
+#camp_text{
+   background-color:rgba(100,0,0,0.3);
+   padding:100px;
+   width:100%;
+   border-radius:5px;
+}
+
+footer{
+  background-color:rgba(66,66,66,0.2);
+  margin-top:10px;
+  text-align:center;
+}
+
+</style>
+</head>
+<body>
+
+<div id="banner">
+     <div id="button">
+	<ul>
+		<li><a href="login.html">Iniciar session </a></li>	
+	</ul>
+
+     </div>
+
+
+<br>
+<br>
+
+
+</div>
+<div id="transition">
+<p> transition </p> 
+</div>
+
+<div id="camp_text">
+  info_imagen
+
+
+</div>
+
+</body>
+
+<footer>
+  allrights reserved. 2014
+
+</footer>
+</html>
